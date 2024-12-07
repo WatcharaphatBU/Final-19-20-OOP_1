@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a8c13a25ef282b549b73034f385b9c6c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - anim: {instanceID: 0}
+  - rb: {instanceID: 0}
+  - <Bullets>k__BackingField: {fileID: 182108, guid: a5638a192258f4059b0e074542d33fbc, type: 3}
+  - <BulletSpawnPoint>k__BackingField: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
